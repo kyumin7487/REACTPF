@@ -15,6 +15,13 @@ export default function start(){
                </ul>
            </nav>
        </header>
+       <main>
+          <div class="container">
+                <h4>Welcome</h4>
+                <h2>I'm A <span>Full-Stack Developer</span></h2>
+                <p>풀스택을 꿈꾸는 고등학생 개발자 박규민입니다!</p>
+            </div>
+       </main>
   </div>
   )
 }
