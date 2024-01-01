@@ -1,0 +1,9 @@
+.Background {
+  background-image: url(../Img/MainBK.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 200vh;
+  height: 100vh;
+}

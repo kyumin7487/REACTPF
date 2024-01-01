@@ -1,0 +1,25 @@
+.header {
+    height: 64px;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+    display: flex;
+}
+.header nav {
+    position: absolute;
+    left: 1350px;
+    top: 40px;
+    width: 600px;
+    list-style: none;
+    font-size: 20px;
+}
+.header nav li {
+    float: left;
+}
+.header nav li a {
+    margin: 5px 15px;
+}
+a { text-decoration:none }
+a {
+    color: white;
+}
