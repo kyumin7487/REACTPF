@@ -7,7 +7,7 @@
 }
 .header nav {
     position: absolute;
-    left: 1350px;
+    left: 1280px;
     top: 40px;
     width: 600px;
     list-style: none;
@@ -17,7 +17,7 @@
     float: left;
 }
 .header nav li a {
-    margin: 5px 15px;
+    margin: 5px 25px;
 }
 a { text-decoration:none }
 a {
